@@ -70,7 +70,7 @@ A comprehensive analysis of crime data to identify patterns, trends, and insight
 
 ## 🙏 Acknowledgments
 - Data provided by [MS.Rasha atteya]  
-- Built using
+- Built using:
 - pandas
 - matplotlib.pyplot
 - seaborn
